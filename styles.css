@@ -1,0 +1,19 @@
+#root{
+    background-color: aqua;
+    border-style: double;
+    width:80%;
+    text-align: center;
+}
+.header{
+    text-align: center;
+    text-decoration: underline;
+}
+.table, tr,td{
+    border-style: double;
+    border-collapse: collapse;
+}
+.table{
+    text-align: center;
+    margin:auto;
+    width:50%
+}
